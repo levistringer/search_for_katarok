@@ -1,0 +1,7 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<h2>{% block title %} {{ skill['title'] }} {% endblock %}</h2>
+<span class="badge badge-primary">{{ skill['year_of_experience'] }}</span>
+<p>{{ skill['name'] }}</p>
+{% endblock %}

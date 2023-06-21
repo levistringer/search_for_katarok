@@ -1,0 +1,46 @@
+LEVI STRINGER
+https://www.linkedin.com/in/LeviStringer/
+levihts@gmail.com
+
+HIGHLIGHTS OF QUALIFICATIONS
+• 4 Years of experience in data science, machine learning, and artificial intelligence, 3 years in project management • 1.5 Years of experience in cybersecurity detection, investigation, and incident management
+• Lead developer on product roadmaps for several projects
+• Proficient in Python, Java, SQL, Javascript, HTML, CSS, jQuery, C, Big Query, Google Cloud, Azure, Docker
+• Managed multiple budgets and made financial decisions totalling over $500,000
+• Proven ability to work collaboratively with diverse groups and establish ongoing relationships
+PROFESSIONAL EXPERIENCE
+Machine Learning Project Manager - Distributive, Kingston, ON May 2021 - October 2022
+• Oversaw a high-performing team of 13 members, driving collaboration, productivity, and achieving exceptional results.
+• Redeveloped a machine vision application that once cost $160,000 per year to run on Microsoft’s Custom Vision platform now runs for $12,500 per year with our API. 92% drop in computing costs.
+• Optimized surgical block schedules that increased surgical throughput by 4-8%. Developed and delivered an AI driven scheduling software to 4 hospitals. The application predicts the performance indicators for generated schedules - allowing for easier planning and adaptability
+AI Software Developer - Distributive, Kingston, ON July 2020 - May 2021
+• Responsible for designing and developing critical scheduling algorithms for a hospital application
+• Worked on creating intelligent systems and applications, leveraging machine learning, natural language processing, and data analytics techniques for informatics projects
+• Expertise in programming, AI algorithms, model development, data processing, and integration to create intelligent and efficient software solutions
+Cybersecurity Incident Response Analyst – TD Bank, Toronto, ON May 2019 – August 2019
+• Developed software for an in-house web application for incident tracking which resulted in 20% better analyst time efficiency
+• Researched and performed forensic investigation into 30+ potential malicious threats
+• Designed live dashboards displaying updates on cybersecurity activity using C#, SQL, HTML, and Visual Studio
+EXTRACURRICULAR EXPERIENCE
+Managing Director – QMIND – Queen’s Artificial Intelligence Hub September 2019 – April 2020
+• Developed an on-boarding data science curriculum to educate new members
+• Oversaw 35 unique machine learning and artificial design teams with 200+ members
+• Involved in securing 11 industry partners and over $30,000 in funding for the September 2019 - April 2020 year
+• Directly managed the Canadian Undergraduate Conference on Artificial Intelligence with 250 delegates with a budget of $135,000
+ 
+ Project Manager – QMIND – Queen’s Artificial Intelligence Hub, April 2018 – April 2019
+• Corresponded with the client (Cooperators Insurance Group) to develop an housing insurance appraisal tool
+• Constructed the convolution neural network that was trained on 3,500 addresses and Google street view images • Algorithm combined street view, satellite, and local data to predict the rebuild cost of the house using Python
+Consultant – Fresh Sight Consulting, April 2018 – April 2019
+• Ran two pro-bono consulting projects with: Kingston Youth Shelter & Focus Forward for Indigenous Youth
+• Improved the grant applying process for Kingston Youth Shelter simplifying their process • Conducted market research, surveys, and interviews to launch a for profit clothing line for Focus Forward
+EDUCATION
+Queen’s University – Kingston, ON, 2016 - 2020
+• Bachelor of Applied Science in Mathematics and Engineering, Class of 2020
+• Currently in my fourth year with a 3.67 grade point average (4.3 scale)
+• Developing a facial recognition thesis project extending previous published techniques
+• Highlight courses include; Algorithms, relational databases, linear algebra, advanced calculus
+HONORS & AWARDS
+Equity, Diversity, and Inclusivity Impact Award – Queen’s Alma Mater Society – Kingston, ON January 2020 • Awarded to our ongoing work to teach American Sign Language and its history and culture at Queen’s, in Kingston, and beyond.
+Selected Speaker – Life & Work in the Age of Disruptive Technologies – Toronto, ON June 2019 • Spoke to over 120 Queen’s Alumni regarding the development of machine learning at Queen’s University
+Shirley Bell Award– Queen’s University – Kingston, ON January 2019 • Given based on academic merit to a student within the Math and Engineering program
